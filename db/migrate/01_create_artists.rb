@@ -11,4 +11,5 @@ class < ActiveRecord::Migration
     create_table :artists do |t|
     end
   end 
+  
 end 
